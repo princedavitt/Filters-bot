@@ -38,7 +38,6 @@ __help__ = """
 ○ Credits : `Everyone in this journey`
 ○ Language : Python3
 ○ Library : [Pyrogram asyncio 0.16.1](https://docs.pyrogram.org/)
-○ Source Code : 👉 [Click Here](https://github.com/santo-surviver/Filter-Bot)
 ○ Server : Heroku
 ○ Build Status : V4 `[+0.4]`
 """
