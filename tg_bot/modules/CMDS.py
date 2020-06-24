@@ -42,5 +42,5 @@ __help__ = """
 ○ Server : Heroku
 ○ Build Status : V4 `[+0.4]`
 """
-__mod_name__ = "⚠️About⚠️"
+__mod_name__ = "☢️About☢️"
 
